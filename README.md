@@ -1,5 +1,7 @@
 # simplespring-boot
 一个较为简单的spring-boot项目
+demo.zip中放置项目的资源文件
+
 项目笔记：
 
 spring-boot项目-员工管理系统开发笔记01-基础配置篇  文章地址：http://t.csdn.cn/FhaRz
